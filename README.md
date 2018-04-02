@@ -1,2 +1,6 @@
 # SampleTestProj
-Hello World Project
+Hell All!
+
+This is my first Github program.
+
+
